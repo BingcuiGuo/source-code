@@ -1,0 +1,4 @@
+This is the air quality analysis for 52 states in 2020. 
+Similar to what is done by Google mobility data, I use data before 2020.2.6 as base line and data after 2020.3.21 as change 
+and calculate the percentage change of the air quality statewise and make plots in Tableau to see the change 
+after the stay-at-home order for most of the states. 
